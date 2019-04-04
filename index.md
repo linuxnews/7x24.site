@@ -1,7 +1,7 @@
-#Welcome to my site
+## Welcome to 7x24.site
 
-## my site is very small##
+This site for my publish code of php/python/shell ...
 
-*You can test markdown
+### Support or Contact
 
-** It's true!
+Mail : tim@7x24.site
