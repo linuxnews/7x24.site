@@ -6,4 +6,4 @@ This site for my publish code of php/python/shell ...
 
 Mail : tim@7x24.site
 
-1. [非root用户加入docker用户组省去sudo](docker-sudo.md)
+1. [非root用户加入docker用户组省去sudo](2019-04-06-title-docker-sudo.md)
