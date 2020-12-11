@@ -1,3 +1,4 @@
+#多地大文件测试链接
 [http://lg.ams.hosthatch.com/1000MB.test](Amsterdam 1000MB)
 [http://lg.ams.hosthatch.com/100MB.test](Amsterdam 100MB)
 [http://lg.chi.hosthatch.com/1000MB.test](Chicago 1000MB)
