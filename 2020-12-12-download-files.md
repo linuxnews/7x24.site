@@ -1,49 +1,49 @@
 #多地大文件测试链接
 
-(http://lg.ams.hosthatch.com/1000MB.test)[Amsterdam 1000MB]
+[Amsterdam 1000MB](http://lg.ams.hosthatch.com/1000MB.test)
 
-(http://lg.ams.hosthatch.com/100MB.test)[Amsterdam 100MB]
+[Amsterdam 100MB](http://lg.ams.hosthatch.com/100MB.test)
 
-(http://lg.chi.hosthatch.com/1000MB.test)[Chicago 1000MB]
+[Chicago 1000MB](http://lg.chi.hosthatch.com/1000MB.test)
 
-(http://lg.chi.hosthatch.com/100MB.test)[Chicago 100MB]
+[Chicago 100MB](http://lg.chi.hosthatch.com/100MB.test)
 
-(http://lg.hkg.hosthatch.com/1000MB.test)[Hong Kong 1000MB]
+[Hong Kong 1000MB](http://lg.hkg.hosthatch.com/1000MB.test)
 
-(http://lg.hkg.hosthatch.com/100MB.test)[Hong Kong 100MB]
+[Hong Kong 100MB](http://lg.hkg.hosthatch.com/100MB.test)
 
-(http://lg.lax.hosthatch.com/1000MB.test)[Los Angeles 1000MB]
+[Los Angeles 1000MB](http://lg.lax.hosthatch.com/1000MB.test)
 
-(http://lg.lax.hosthatch.com/100MB.test)[Los Angeles 100MB]
+[Los Angeles 100MB](http://lg.lax.hosthatch.com/100MB.test)
 
-(http://lg.lon.hosthatch.com/1000MB.test)[London 1000MB]
+[London 1000MB](http://lg.lon.hosthatch.com/1000MB.test)
 
-(http://lg.lon.hosthatch.com/100MB.test)[London 100MB]
+[London 100MB](http://lg.lon.hosthatch.com/100MB.test)
 
-(http://lg.ny.hosthatch.com/1000MB.test)[New York 1000MB]
+[New York 1000MB](http://lg.ny.hosthatch.com/1000MB.test)
 
-(http://lg.ny.hosthatch.com/100MB.test)[New York 100MB]
+[New York 100MB](http://lg.ny.hosthatch.com/100MB.test)
 
-(http://lg.osl.hosthatch.com/1000MB.test)[Oslo 1000MB]
+[Oslo 1000MB](http://lg.osl.hosthatch.com/1000MB.test)
 
-(http://lg.osl.hosthatch.com/100MB.test)[Oslo 100MB]
+[Oslo 100MB](http://lg.osl.hosthatch.com/100MB.test)
 
-(http://lg.sto.hosthatch.com/1000MB.test)[Stockholm 1000MB]
+[Stockholm 1000MB](http://lg.sto.hosthatch.com/1000MB.test)
 
-(http://lg.sto.hosthatch.com/100MB.test)[Stockholm 100MB]
+[Stockholm 100MB](http://lg.sto.hosthatch.com/100MB.test)
 
-(http://lg.syd.hosthatch.com/1000MB.test)[Sydney 1000MB]
+[Sydney 1000MB](http://lg.syd.hosthatch.com/1000MB.test)
 
-(http://lg.syd.hosthatch.com/100MB.test)[Sydney 100MB]
+[Sydney 100MB](http://lg.syd.hosthatch.com/100MB.test)
 
-(http://lg.vie.hosthatch.com/1000MB.test)[Vienna 1000MB]
+[Vienna 1000MB](http://lg.vie.hosthatch.com/1000MB.test)
 
-(http://lg.vie.hosthatch.com/100MB.test)[Vienna 100MB]
+[Vienna 100MB](http://lg.vie.hosthatch.com/100MB.test)
 
-(http://lg.waw.hosthatch.com/1000MB.test)[Warsaw 1000MB]
+[Warsaw 1000MB](http://lg.waw.hosthatch.com/1000MB.test)
 
-(http://lg.waw.hosthatch.com/100MB.test)[Warsaw 100MB]
+[Warsaw 100MB](http://lg.waw.hosthatch.com/100MB.test)
 
-(http://lg.zrh.hosthatch.com/1000MB.test)[Zurich 1000MB]
+[Zurich 1000MB](http://lg.zrh.hosthatch.com/1000MB.test)
 
-(http://lg.zrh.hosthatch.com/100MB.test)[Zurich 100MB]
+[Zurich 100MB](http://lg.zrh.hosthatch.com/100MB.test)
