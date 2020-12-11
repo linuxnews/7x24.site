@@ -8,3 +8,4 @@ Mail : tim@7x24.site
 
 1. [非root用户加入docker用户组省去sudo](2019-04-06-title-docker-sudo.md)
 2. [本地多id_rsa配置](2020-12-02-ssh-key.md)
+1. [多地大文件测试链接](2020-12-12-download-files.md)
