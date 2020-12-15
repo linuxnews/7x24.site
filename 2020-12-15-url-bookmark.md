@@ -4,3 +4,8 @@
 2. [Linux和Unxi软件库](https://www.freshmeat.net)
 3. [Linux论坛](https://www.linux.com)
 4. [SlashDot技术新闻网站](https://www.slashdot.org)
+5. [Linux及开放源代码信息](https://www.lwn.net)
+6. [Linux新闻](https://www.lxer.com)
+7. [SecurityFocus](https://www.securityfocus.com)
+8. [ServerFault](https://www.serverfault.com)
+9. [ServerFiles](https://www.serverfiles.com)
